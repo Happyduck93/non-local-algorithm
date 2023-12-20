@@ -2,6 +2,8 @@
 Re-implementtaion of Non-local algorithm introduced in the paper 'A non-local algorithm for image denoising' by Antoni Buades et al.
 
 
+![image](https://github.com/Happyduck93/non-local-algorithm/assets/65797550/15abcd68-25ae-449f-ab24-7d0d5320b6a1)
+![image](https://github.com/Happyduck93/non-local-algorithm/assets/65797550/aaca7f1d-5729-4087-b473-44c8721ec384)
 
 
 
